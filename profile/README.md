@@ -13,7 +13,7 @@ The **ESTER project** (Estimating the Earth’s prehistoric population based on 
 
 Using advanced **spatial and demographic modeling**, ESTER aims to provide **quantitative estimates of past human populations** and their interactions with changing environments.  
 
-📍 **Host Institution:** [University of Kiel](http://uni-kiel.de)  
+📍 **Host Institution:** [University of Kiel](https://www.uni-kiel.de/), specifically the [Institute of Pre- and Protohistoric Archaeology](https://www.ufg.uni-kiel.de/en?set_language=en)  
 📖 **Funding:** European Research Council (ERC) Consolidator Grant  
 
 ## What You'll Find Here  
