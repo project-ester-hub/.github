@@ -36,6 +36,10 @@ All datasets, scripts, and models will be made freely available under appropriat
 - 📧 Contact: [martin.hinz@ufg.uni-kiel.de]
 - 🌍 Website: [ester-project.org](https://ester-project.org)
 
+## Lab Info :house:
+
+- [Ester Code of Conduct](https://github.com/project-ester-hub/ester-project-governance/code_of_conduct/README.md) - mission, principles, and logistics for the group
+
 <details><summary>Publications</summary>
   
   - yet to come...
