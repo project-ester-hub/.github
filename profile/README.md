@@ -34,7 +34,7 @@ All datasets, scripts, and models will be made freely available under appropriat
 
 - 👨‍🔬 Principal Investigator: Martin Hinz
 - 📧 Contact: [martin.hinz@ufg.uni-kiel.de]
-- 🌍 Website: [project-ester.org](https://project-ester.org)
+- 🌍 Website: [ester-project.org](https://ester-project.org)
 
 <details><summary>Publications</summary>
   
