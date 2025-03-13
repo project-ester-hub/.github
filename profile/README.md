@@ -39,6 +39,8 @@ All datasets, scripts, and models will be made freely available under appropriat
 ## Lab Info :house:
 
 - [Ester Code of Conduct](https://github.com/project-ester-hub/ester-project-governance/blob/main/code_of_conduct/README.md) - mission, principles, and logistics for the group
+- Overarching Planning and Roadmap at our [ESTER Forward Planning](https://github.com/orgs/project-ester-hub/projects/2/) (🔒)
+- Ongoing development and sprint progress on our [Sprint Planning Board](https://github.com/orgs/project-ester-hub/projects/2/) (🔒)
 
 <details><summary>Publications</summary>
   
