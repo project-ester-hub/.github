@@ -43,6 +43,18 @@ All datasets, scripts, and models will be made freely available under appropriat
 - Ongoing development and sprint progress on our [Sprint Planning Board](https://github.com/orgs/project-ester-hub/projects/2/) (🔒)
 - [Onboarding Guide](https://github.com/project-ester-hub/ester_project/blob/main/onboarding/ONBOARDING.md) (🔒)
 
+## 📜 License & Citation
+
+All project data will be published under the **Creative Commons Attribution 4.0 License (CC BY 4.0)**.  
+All code will be published under the **MIT License**, unless otherwise stated.
+
+You might find the general [LICENSE](https://github.com/project-ester-hub/ester-project-governance/blob/main/LICENSE) and [CITATION.cff](https://github.com/project-ester-hub/ester-project-governance/blob/main/CITATION.cff) in our Governance repository. Please check the `LICENSE` and `CITATION.cff` files in each repository for the most up-to-date information.
+
+➡️ A full citation guide will be added once the first datasets and model versions are released.
+
+> 🕒 Note: This repository is part of the ESTER Project, which officially starts in September 2025.  
+> All content is preliminary and may change. Licensing will apply as described from that date onward.
+
 <details><summary>Publications</summary>
   
   - yet to come...
