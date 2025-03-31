@@ -41,6 +41,7 @@ All datasets, scripts, and models will be made freely available under appropriat
 - [Ester Code of Conduct](https://github.com/project-ester-hub/ester-project-governance/blob/main/code_of_conduct/README.md) - mission, principles, and logistics for the group
 - Overarching Planning and Roadmap at our [ESTER Forward Planning](https://github.com/orgs/project-ester-hub/projects/2/) (🔒)
 - Ongoing development and sprint progress on our [Sprint Planning Board](https://github.com/orgs/project-ester-hub/projects/2/) (🔒)
+- [Onboarding Guide](https://github.com/project-ester-hub/ester_project/blob/main/onboarding/ONBOARDING.md) (🔒)
 
 <details><summary>Publications</summary>
   
