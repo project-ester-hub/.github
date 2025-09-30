@@ -1,6 +1,6 @@
 # Welcome to the ESTER Project GitHub  
 
-🌍 **ESTER – Estimating Population Dynamics for Europe and Western Asia (12,000 BP – Present)**  
+🌍 **ESTER – Estimating Population Dynamics for Europe and Western Asia (12,000 – 2000 BP)**  
 
 This repository hosts open-source tools, datasets, and research outputs from the **ERC-funded ESTER project**. Our goal is to develop **computational models and archaeological datasets** to reconstruct past population dynamics across **Europe and Western Asia** over the past **12,000 years**.
 
