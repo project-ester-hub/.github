@@ -32,10 +32,14 @@ All datasets, scripts, and models will be made freely available under appropriat
 
 ## Contact & Team
 
-- 👨‍🔬 Principal Investigator: Martin Hinz
-- 📧 Contact: [martin.hinz@ufg.uni-kiel.de]
-- 🌍 Website: [ester-project.org](https://ester-project.org)
-
+- Principal Investigator: Martin Hinz
+  - Contact: [martin.hinz@ufg.uni-kiel.de]
+- PostDoc Archaeology: Sophie C. Schmidt
+  - Contact: [s.c.schmidt@ufg.uni-kiel.de]
+    
+- Website: [ester-project.org](https://ester-project.org)
+- [Roles and Resonsibilities](https://github.com/project-ester-hub/ester-project-governance/tree/main/team/roles)
+  
 ## Lab Info :house:
 
 - [Ester Code of Conduct](https://github.com/project-ester-hub/ester-project-governance/blob/main/code_of_conduct/README.md) - mission, principles, and logistics for the group
