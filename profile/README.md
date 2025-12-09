@@ -28,6 +28,8 @@ Using advanced **spatial and demographic modeling**, ESTER aims to provide **qua
 🚀 ESTER is committed to Open Science!
 All datasets, scripts, and models will be made freely available under appropriate licenses. We encourage collaboration with researchers across disciplines.
 
+For Details, check our [Open Science Standards](https://github.com/project-ester-hub/ester-project-governance/tree/main/open-science)
+
 💡 If you’re interested in contributing, check out our collaboration guidelines or open an issue in the respective repository.
 
 ## Contact & Team
