@@ -7,14 +7,14 @@ This repository hosts open-source tools, datasets, and research outputs from the
 ## About ESTER  
 
 The **ESTER project** (Estimating the Earth’s prehistoric population based on a large number of Records) is an **interdisciplinary research initiative** combining:  
-- **Prehistoric archaeology** 🏺  
-- **Paleoenvironmental science** 🌿  
-- **Computational modeling** 🖥️  
+- **Prehistoric archaeology**
+- **Paleoenvironmental science**
+- **Computational modeling**
 
 Using advanced **spatial and demographic modeling**, ESTER aims to provide **quantitative estimates of past human populations** and their interactions with changing environments.  
 
-📍 **Host Institution:** [University of Kiel](https://www.uni-kiel.de/), specifically the [Institute of Pre- and Protohistoric Archaeology](https://www.ufg.uni-kiel.de/en?set_language=en)  
-📖 **Funding:** European Research Council (ERC) Consolidator Grant  
+**Host Institution:** [University of Kiel](https://www.uni-kiel.de/), specifically the [Institute of Pre- and Protohistoric Archaeology](https://www.ufg.uni-kiel.de/en?set_language=en)  
+**Funding:** European Research Council (ERC) Consolidator Grant  
 
 ## What You'll Find Here  
 
@@ -25,12 +25,12 @@ Using advanced **spatial and demographic modeling**, ESTER aims to provide **qua
 
 ## Open Science & Collaboration
 
-🚀 ESTER is committed to Open Science!
+ESTER is committed to Open Science!
 All datasets, scripts, and models will be made freely available under appropriate licenses. We encourage collaboration with researchers across disciplines.
 
 For Details, check our [Open Science Standards](https://github.com/project-ester-hub/ester-project-governance/tree/main/open-science)
 
-💡 If you’re interested in contributing, check out our collaboration guidelines or open an issue in the respective repository.
+If you’re interested in contributing, check out our collaboration guidelines or open an issue in the respective repository.
 
 ## Contact & Team
 
@@ -58,7 +58,7 @@ You might find the general [LICENSE](https://github.com/project-ester-hub/ester-
 
 ➡️ A full citation guide will be added once the first datasets and model versions are released.
 
-> 🕒 Note: This repository is part of the ESTER Project, which officially starts in September 2025.  
+> Note: This repository is part of the ESTER Project, which officially starts in September 2025.  
 > All content is preliminary and may change. Licensing will apply as described from that date onward.
 
 <details><summary>Publications</summary>
@@ -81,7 +81,7 @@ The form of credit will be determined through mutual agreement, reflecting the n
 
 For general inquiries regarding the use of our open-source tools, we encourage users to first consult the available documentation, tutorials, and relevant publications. If further assistance is needed, please open an issue in the respective GitHub repository.
 
-👉 Co-authorship is not expected for routine troubleshooting, issue resolution, or technical support. However, we highly appreciate proper citation and fair acknowledgment of our work in publications and presentations.
+> Co-authorship is not expected for routine troubleshooting, issue resolution, or technical support. However, we highly appreciate proper citation and fair acknowledgment of our work in publications and presentations.
 
 For additional details on our research ethos and best practices, please refer to our collaboration guidelines or contact us directly. Thank you for supporting open science and responsible academic collaboration!
 
