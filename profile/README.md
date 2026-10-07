@@ -45,7 +45,7 @@ If you’re interested in contributing, check out our collaboration guidelines o
 ## Lab Info :house:
 
 - [Ester Code of Conduct](https://github.com/project-ester-hub/ester-project-governance/blob/main/code_of_conduct/README.md) - mission, principles, and logistics for the group
-- Overarching Planning and Roadmap at our [ESTER Forward Planning](https://github.com/orgs/project-ester-hub/projects/2/) (🔒)
+- Overarching Planning and Roadmap at our [ESTER Forward Planning](https://github.com/orgs/project-ester-hub/projects/1/) (🔒)
 - Ongoing development and sprint progress on our [Sprint Planning Board](https://github.com/orgs/project-ester-hub/projects/2/) (🔒)
 - [Onboarding Guide](https://github.com/project-ester-hub/ester_project/blob/main/onboarding/ONBOARDING.md) (🔒)
 
