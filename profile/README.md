@@ -6,7 +6,7 @@ This repository hosts open-source tools, datasets, and research outputs from the
 
 ## About ESTER  
 
-The **ESTER project** (Estimating the Earth’s prehistoric population based on a large number of Records) is an **interdisciplinary research initiative** combining:  
+The **ESTER project** (Estimating the Eurasia’s prehistoric population based on a large number of Records) is an **interdisciplinary research initiative** combining:  
 - **Prehistoric archaeology**
 - **Paleoenvironmental science**
 - **Computational modeling**
